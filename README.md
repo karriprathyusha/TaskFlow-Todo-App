@@ -1,5 +1,4 @@
-# TaskFlow — Just Do It
-
+# TaskFlow ~ Just Do It!
 > A simple, elegant todo application built with HTML, CSS & JavaScript
 
 A clean, modern to-do list that helps you organize tasks effortlessly with local persistence, multiple themes, and responsive design.
